@@ -8,3 +8,8 @@ To install all the dependencies needed to run the game, open the project in Unit
 ## Built With
 * Unity 
 * C#
+
+## Links
+[Bensound](https://www.bensound.com)<br/>
+[FreeSound](https://freesound.org)<br/>
+[Kenney game assets](https://www.kenney.nl)<br/>
